@@ -1,4 +1,4 @@
-# **Simple-Robot-Trading**
+# **Simple-Robot-Trading** 🤖
 
 Este proyecto es un Challenge propuesto por el equipo de Alura LATAM para el Bootcamp de Ciencia de Datos. </br>
 `Robot-Trading` es un programa simple que identifica cuando comprar, vender o esperar para comprar Bitcoin, de acuerdo al promedio de los precios de cierre del Bitcoin en los últimos 7 días en los que hubo transacciones, además de eso, toma la decisión acorde a las tendencias de cada hora de la página [CoinMarketCap](https://coinmarketcap.com/).
@@ -49,13 +49,7 @@ El proceso se repite cada 5 minutos. Puede detenerse de forma segura con `Ctrl +
 
 ---
 
-## 🧪 Ejemplo de salida
+## Ejemplo
+![prueba](https://github.com/user-attachments/assets/9a965c8a-fe31-4ed9-badb-026859744acf)
 
-```
-Precio actual: $67,350.52
-Precio promedio: $66,725.11
-Tendencia: alta
-Decisión tomada: Comprar
-```
-![image](https://github.com/user-attachments/assets/2e6b6bae-b8f1-4e48-a6f1-07cb11db46e9)
 
